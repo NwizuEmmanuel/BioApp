@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="username">Onyeka Nwizu E.</string>
+    <string name="bio_info">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam.\n\n
+      Adipisci nostrum dignissimos accusantium repellat distinctio molestiae vel
+      itaque animi, eum, similique perferendis quibusdam eligendi. Quo voluptas
+      optio voluptatibus illo magnam? Lorem ipsum dolor sit, amet consectetur
+      adipisicing elit. Qui, alias quis odit nisi accusamus veritatis. Nam modi
+      obcaecati veritatis, eligendi atque consequuntur est hic expedita
+      inventore voluptas fugit cupiditate dolor? Lorem ipsum, dolor sit amet
+      consectetur adipisicing elit. Temporibus iste, repellendus iure aliquid
+      recusandae quibusdam ipsa illum. Et dolore ipsam quae porro, at iste
+      assumenda repellendus consequuntur mollitia accusantium possimus.
+    </string>
+    <string name="hobbies_field">Enter your hobbies</string>
+    <string name="done_btn_text">Done</string>
+</resources>
